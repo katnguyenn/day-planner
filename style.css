@@ -57,7 +57,7 @@ textarea{
   color: white;
 }
 
-#saveBtn {
+.btn {
   background-color: brown;
   color: white;
   display: block;
@@ -66,7 +66,7 @@ textarea{
   
 }
 
-#saveBtn:hover {
+.btn:hover {
   font-size: 20px;
   transition: all .3s ease-in-out;
   background-color: gray;
